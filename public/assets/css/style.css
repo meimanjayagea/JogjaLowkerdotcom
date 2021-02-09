@@ -1,0 +1,18 @@
+.home {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 51, 128, 0.4)),
+    url("/assets/img/home.jpg");
+  margin: auto;
+  background-size: cover;
+  height: 500px;
+}
+
+.plowo {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 102, 255, 0.4)),
+    url("/assets/img/benn.jpg");
+  margin: auto;
+  position: relative;
+  align-content: center;
+  justify-content: center;
+  background-size: cover;
+  height: 300px;
+}
